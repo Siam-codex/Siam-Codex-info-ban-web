@@ -420,7 +420,7 @@ HTML_TEMPLATE = '''
         </div>
        <div style="text-align: center; margin: -10px 0 20px 0;">
     <marquee behavior="scroll" direction="left" scrollamount="6" style="color: #FFFFFF; font-weight: bold; font-family: monospace; font-size: 18px; letter-spacing: 3px;">
-        👑 🔥 MAKE BY SIAM CODEX 🔥👑 
+        👑 🔥 MAKE BY TAHMID CODEX 🔥👑 
     </marquee>
 </div>
         
