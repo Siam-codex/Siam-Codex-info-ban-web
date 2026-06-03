@@ -708,9 +708,9 @@ def full_info():
 
 if __name__ == '__main__':
     print("\n" + "="*60)
-    print("🚀 SIAM CODEX SERVER STARTED SUCCESSFULLY!")
+    print("🚀 TAHMID CODEX SERVER STARTED SUCCESSFULLY!")
     print("📱 Open browser: http://localhost:5000")
     print("⚡ Press CTRL+C to stop")
-    print("👨‍💻\033[94m  DEVELOPED BY 🔥👑🗿SIAM CODEX🗿👑🔥\033[0m")
+    print("👨‍💻\033[94m  DEVELOPED BY 🔥👑🗿TAHMID CODEX🗿👑🔥\033[0m")
     print("="*60 + "\n")
     app.run(debug=False, host='0.0.0.0', port=5000)
