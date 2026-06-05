@@ -30,7 +30,7 @@ clear
 
 # ৩. কমান্ড স্টার্ট অ্যানিমেশন
 echo -e "\e[1;36m==================================================\e[0m"
-type_effect "  👑 🔥 WELCOME TO TAHMID CODEX SERVER SYSTEM 🔥 👑  "
+type_effect "  👑 🔥 WELCOME TO SIAM CODEX SERVER SYSTEM 🔥 👑  "
 echo -e "\e[1;36m==================================================\e[0m"
 sleep 0.5
 
