@@ -419,8 +419,8 @@ HTML_TEMPLATE = '''
             <div class="hero-line"></div>
         </div>
        <div style="text-align: center; margin: -10px 0 20px 0;">
-    <marquee behavior="scroll" direction="left" scrollamount="6" style="color: #FFFFFF; font-weight: bold; font-family: monospace; font-size: 18px; letter-spacing: 3px;">
-        👑 🔥 MAKE BY TAHMID CODEX 🔥👑 
+    <marquee behavior="scroll" direction="left" scrollamount="6" style="color: #FFD700; font-weight: bold; font-family: monospace; font-size: 18px; letter-spacing: 3px;">
+        👑 🔥 MAKE BY SIAM CODEX 🔥👑 
     </marquee>
 </div>
         
@@ -708,9 +708,9 @@ def full_info():
 
 if __name__ == '__main__':
     print("\n" + "="*60)
-    print("🚀 TAHMID CODEX SERVER STARTED SUCCESSFULLY!")
+    print("🚀 SIAM CODEX SERVER STARTED SUCCESSFULLY!")
     print("📱 Open browser: http://localhost:5000")
     print("⚡ Press CTRL+C to stop")
-    print("👨‍💻\033[94m  DEVELOPED BY 🔥👑🗿TAHMID CODEX🗿👑🔥\033[0m")
+    print("👨‍💻\033[94m  DEVELOPED BY 🔥👑🗿SIAM CODEX🗿👑🔥\033[0m")
     print("="*60 + "\n")
     app.run(debug=False, host='0.0.0.0', port=5000)
