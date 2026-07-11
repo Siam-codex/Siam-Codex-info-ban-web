@@ -701,7 +701,7 @@ def full_info():
         return jsonify({'error': 'UID required'}), 400
     
     try:
-        resp = requests.get(f'https://star-info-api.lovable.app/functions/v1/info-api/accinfo?uid={uid}', timeout=15)
+        resp = requests.get(f'https://nirob-x-info.vercel.app/info?uid={uid}', timeout=15)
         return jsonify(resp.json())
     except Exception as e:
         return jsonify({'error': str(e)}), 500
